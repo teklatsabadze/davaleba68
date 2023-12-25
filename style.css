@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 230px;
+    height: 297px;
+    border: 2px solid grey;
+    background: #FFF;
+    overflow-x: scroll;
+    float: left;
+}
+img{
+    width: 560px;
+    height: 646.528px;
+    float: right;
+}
